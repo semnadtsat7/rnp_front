@@ -1,0 +1,196 @@
+{
+  "petg-bottom-plastic-pump": {
+    "name_en": "PETG bottle + Plastic Pump 100 - 650 ml",
+    "name_th": "ขวดปั้ม PETG 100 - 650 ml",
+    "colors": ["#fff", "#008A00", "#6D8764", "#825A2C", "F472D0", "1BA1E2"],
+    "cover_image": "/images/petg-bottle-plastic-pump-1.png",
+    "images": [
+      "/images/petg-bottle-plastic-pump-1.png",
+      "/images/petg-bottle-plastic-pump-2.png",
+      "/images/petg-bottle-plastic-pump-3.png",
+      "/images/petg-bottle-plastic-pump-4.png",
+      "/images/petg-bottle-plastic-pump-5.png",
+      "/images/petg-bottle-plastic-pump-6.png",
+      "/images/petg-bottle-plastic-pump-7.png",
+      "/images/petg-bottle-plastic-pump-8.png",
+      "/images/petg-bottle-plastic-pump-9.png",
+      "/images/petg-bottle-plastic-pump-10.png",
+      "/images/petg-bottle-plastic-pump-11.png",
+      "/images/petg-bottle-plastic-pump-12.png"
+    ],
+    "desc_en": "PETG bottle + Plastic Pump 100 - 650 ml ครีมอาบน้ำ เจลอาบน้ำ เจลแอลกอฮอล์",
+    "desc_th": "ขวดปั้ม PETG 100 - 650 ml ครีมอาบน้ำ เจลอาบน้ำ เจลแอลกอฮอล์",
+    "specs_en": [
+      "ขวดปั้ม PETG 100 - 650 ml",
+      "สีขาวใส สีขาวขุ่น สีเขียว",
+      "รอรับของ 15 - 20 วัน",
+      "ติดต่อ email office@roongnapaplastic.com"
+    ],
+    "specs_th": [
+      "ขวดปั้ม PETG 100 - 650 ml",
+      "สีขาวใส สีขาวขุ่น สีเขียว",
+      "รอรับของ 15 - 20 วัน",
+      "ติดต่อ email office@roongnapaplastic.com"
+    ]
+  },
+  "squeeze-tube-50ml": {
+    "name_en": "Squeeze tube 30, 50 ml",
+    "name_th": "หลอดบีบ 30, 50 ml",
+    "colors": ["#fff"],
+    "cover_image": "/images/squeeze-tube-50ml-1.jpg",
+    "images": [
+      "/images/squeeze-tube-50ml-1.jpg",
+      "/images/squeeze-tube-50ml-2.jpg",
+      "/images/squeeze-tube-50ml-3.jpg",
+      "/images/squeeze-tube-50ml-4.jpg",
+      "/images/squeeze-tube-50ml-5.jpg",
+      "/images/squeeze-tube-50ml-6.jpg"
+    ],
+    "desc_en": "หลอดบีบ 30, 50 ml หลอดบีบใส่เจล หลอดโฟม หลอดเจล",
+    "desc_th": "หลอดบีบ 30, 50 ml หลอดบีบใส่เจล หลอดโฟม หลอดเจล",
+    "specs_en": [
+      "หลอดบีบใส 50 ml",
+      "หลอดขาวใสเงา",
+      "พร้อมส่ง",
+      "ติดต่อ email office@roongnapaplastic.com",
+      "ติดต่อ tel 0981592951"
+    ],
+    "specs_th": [
+      "หลอดบีบใส 50 ml",
+      "หลอดขาวใสเงา",
+      "พร้อมส่ง",
+      "ติดต่อ email office@roongnapaplastic.com",
+      "ติดต่อ tel 0981592951"
+    ]
+  },
+  "bottle-cap-shrink-wrapper": {
+    "name_en": "Bottle Cap Shrink Wrapper",
+    "name_th": "",
+    "colors": [],
+    "cover_image": "/images/bottle-cap.png",
+    "images": [
+      "/images/bottle-cap.png"
+    ],
+    "desc_en": "",
+    "desc_th": "",
+    "specs_en": [],
+    "specs_th": []
+  },
+  "clear-pvc-heat-shrink-pack-1": {
+    "name_en": "Clear PVC Heat Shrink Package 1",
+    "name_th": "",
+    "colors": [],
+    "cover_image": "/images/clear-pvc.png",
+    "images": [
+      "/images/clear-pvc.png"
+    ],
+    "desc_en": "",
+    "desc_th": "",
+    "specs_en": [],
+    "specs_th": []
+  },
+  "clear-pvc-heat-shrink-pack-2": {
+    "name_en": "Clear PVC Heat Shrink Package 2",
+    "name_th": "",
+    "colors": [],
+    "cover_image": "/images/clear-pvc-2.png",
+    "images": [
+      "/images/clear-pvc-2.png"
+    ],
+    "desc_en": "",
+    "desc_th": "",
+    "specs_en": [],
+    "specs_th": []
+  },
+  "clear-pvc-heat-shrink-pack-3": {
+    "name_en": "Clear PVC Heat Shrink Package 3",
+    "name_th": "",
+    "colors": [],
+    "cover_image": "/images/clear-pvc-3.png",
+    "images": [
+      "/images/clear-pvc-3.png"
+    ],
+    "desc_en": "",
+    "desc_th": "",
+    "specs_en": [],
+    "specs_th": []
+  },
+  "plastic-pvc-sheet": {
+    "name_en": "Plastic PVC Sheet",
+    "name_th": "",
+    "colors": [],
+    "cover_image": "/images/plastic-pvc.png",
+    "images": [
+      "/images/plastic-pvc.png"
+    ],
+    "desc_en": "",
+    "desc_th": "",
+    "specs_en": [],
+    "specs_th": []
+  },
+  "plastic-pvc-sheet-oem": {
+    "name_en": "Plastic PVC Sheet OEM",
+    "name_th": "",
+    "colors": [],
+    "cover_image": "/images/plastic-pvc-oem.png",
+    "images": [
+      "/images/plastic-pvc-oem.png"
+    ],
+    "desc_en": "",
+    "desc_th": "",
+    "specs_en": [],
+    "specs_th": []
+  },
+  "pvc-heat-shrink-oem": {
+    "name_en": "PVC Heat Shrink OEM",
+    "name_th": "",
+    "colors": [],
+    "cover_image": "/images/pvc-heat.png",
+    "images": [
+      "/images/pvc-heat.png"
+    ],
+    "desc_en": "",
+    "desc_th": "",
+    "specs_en": [],
+    "specs_th": []
+  },
+  "pvc-shrink-heat-curve": {
+    "name_en": "PVC Shrink Heat Curve",
+    "name_th": "",
+    "colors": [],
+    "cover_image": "/images/pvc-shrink.png",
+    "images": [
+      "/images/pvc-shrink.png"
+    ],
+    "desc_en": "",
+    "desc_th": "",
+    "specs_en": [],
+    "specs_th": []
+  },
+  "ldpe-heat-shrink-film": {
+    "name_en": "LDPE Heat Shrink Film",
+    "name_th": "ฟิล์มหดตัดสำเร็จรูป",
+    "colors": ["#fae3b5", "#515c6f", "#765e30"],
+    "cover_image": "/images/ldpe-heat.png",
+    "images": [
+      "/images/ldpe-heat.png",
+      "/images/ldpe-heat-2.png",
+      "/images/ldpe-heat-3.png",
+      "/images/ldpe-heat-3.png"
+    ],
+    "desc_en": "ถุง PE ผลิตจากเม็ดพลาสติกประเภท LDPE จะมีความใส ขุ่นเล็กน้อย มีความเหนียว ทนอุณหภูมิต่ำได้ดี สามารถผลิตได้หลายความหนา เหมาะกับทำถุงใส่ของแช่เย็น ต่างๆ เช่น ถุงใส่น้ำแข็ง ถุงใส่สินค้าอุตสาหกรรม",
+    "desc_th": "ถุง PE ผลิตจากเม็ดพลาสติกประเภท LDPE จะมีความใส ขุ่นเล็กน้อย มีความเหนียว ทนอุณหภูมิต่ำได้ดี สามารถผลิตได้หลายความหนา เหมาะกับทำถุงใส่ของแช่เย็น ต่างๆ เช่น ถุงใส่น้ำแข็ง ถุงใส่สินค้าอุตสาหกรรม",
+    "specs_en": [
+      "ถุง PE ผลิตจากเม็ดพลาสติกประเภท LDPE จะมีความใส ขุ่นเล็กน้อย มีความเหนียว ทนอุณหภูมิต่ำได้ดี สามารถผลิตได้หลายความหนา เหมาะกับทำถุงใส่ของแช่เย็น ต่างๆ เช่น ถุงใส่น้ำแข็ง ถุงใส่สินค้าอุตสาหกรรม",
+      "สั่งผลิต ความหนาตั้งแต่ 20 ไมครอน - 200 ไมครอน",
+      "กว้างตั้งแต่ ขนาด 6” - 40”",
+      "รูปแบบการผลิต ม้วน แผ่นฟิล์ม ถุงแผ่น ตัดเปิดหัว-เปิดท้ายได้ ตามความต้องการ"
+    ],
+    "specs_th": [
+      "ถุง PE ผลิตจากเม็ดพลาสติกประเภท LDPE จะมีความใส ขุ่นเล็กน้อย มีความเหนียว ทนอุณหภูมิต่ำได้ดี สามารถผลิตได้หลายความหนา เหมาะกับทำถุงใส่ของแช่เย็น ต่างๆ เช่น ถุงใส่น้ำแข็ง ถุงใส่สินค้าอุตสาหกรรม",
+      "สั่งผลิต ความหนาตั้งแต่ 20 ไมครอน - 200 ไมครอน",
+      "กว้างตั้งแต่ ขนาด 6” - 40”",
+      "รูปแบบการผลิต ม้วน แผ่นฟิล์ม ถุงแผ่น ตัดเปิดหัว-เปิดท้ายได้ ตามความต้องการ"
+    ]
+  }
+}

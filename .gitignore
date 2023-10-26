@@ -1,0 +1,15 @@
+# build output
+.next
+dist
+output
+
+# dependencies
+node_modules
+package-lock.json
+yarn.lock
+
+# logs
+yarn-error.log
+
+# macOS
+.DS_Store
